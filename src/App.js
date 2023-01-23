@@ -1,20 +1,21 @@
 import './App.css';
-import Toggle from "./components/toggle/Toggle";
+// import Toggle from "./components/toggle/Toggle";
 import Intro from "./components/intro/Intro";
-import About from "./components/about/About";
-import ProductList from "./components/productList/ProductList";
-import Contact from "./components/contact/Contact";
+// import About from "./components/about/About";
+// import ProductList from "./components/productList/ProductList";
+// import Contact from "./components/contact/Contact";
 
 
 
 function App() {
+
   return (
     <div className="App">
-      <Toggle />
+      {/* <Toggle /> */}
       <Intro />
-      <About />
+      {/* <About />
       <ProductList />
-      <Contact />
+      <Contact /> */}
     </div>
   );
 }
