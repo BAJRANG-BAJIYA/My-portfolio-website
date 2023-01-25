@@ -74,6 +74,11 @@
       font-weight: bold;
       color: #555;
       margin-bottom: 1rem;
+      font-size: 2.6rem;
+  }
+  
+  .a-award-desc{
+    font-size: 1.6rem;
   }
   
   @media screen and (max-width:480px) {
