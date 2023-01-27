@@ -1,32 +1,32 @@
 export const products = [
     {
         id:1,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/my-hotel-booking-react-frontend",
     },
     {
         id:2,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/inside-furniture-react",
     },
     {
         id:3,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/restaurent-react-frontend",
     },
     {
         id:4,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/ZeekKart-e-commerce-web",
     },
     {
         id:5,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/my-hotel-booking-react-frontend",
     },
     {
         id:6,
-        img:"",
-        link:"https://google.com",
+        img:"https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        link:"https://github.com/BAJRANG-BAJIYA/Netflix-UI",
     },
 ]
